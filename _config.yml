@@ -1,0 +1,12 @@
+title: Raphael Steinborn's Portfolio
+email: mail@raphaelsteinborn.com
+description: >- # this means to ignore newlines until "baseurl:"
+  With a passion for Data Science and Artificial Intelligence, I am dedicated to actively shaping the future. My constant willingness to learn, creativity, and analytical thinking enable me to perceive even the finest details with precision.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rsteinborn.github.io" # the base hostname & protocol for your site
+github_username: rsteinborn
+
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
